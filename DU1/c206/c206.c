@@ -297,7 +297,7 @@ void DLL_DeleteLast( DLList *list ) {
 	}
 
 
-	solved = FALSE; /* V případě řešení, smažte tento řádek! */
+	//solved = FALSE; /* V případě řešení, smažte tento řádek! */
 }
 
 /**
