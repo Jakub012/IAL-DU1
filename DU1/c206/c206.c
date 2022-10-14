@@ -52,7 +52,7 @@
 ** Proto zde používáme pojem funkce i pro operace, které by byly
 ** v algoritmickém jazyce Pascalovského typu implemenovány jako procedury
 ** (v jazyce C procedurám odpovídají funkce vracející typ void).
-**1111111111111111111
+**1111111111111111111111122222
 **/
 
 #include "c206.h"
